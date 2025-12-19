@@ -1,0 +1,16 @@
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\Shellsort.Form1.resources
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ShellSortt.csproj.GenerateResource.cache
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ShellSortt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ShellSortt.AssemblyInfoInputs.cache
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ShellSortt.AssemblyInfo.cs
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ShellSortt.csproj.CoreCompileInputs.cache
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\bin\Debug\net8.0-windows\ShellSortt.exe
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\bin\Debug\net8.0-windows\ShellSortt.deps.json
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\bin\Debug\net8.0-windows\ShellSortt.runtimeconfig.json
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\bin\Debug\net8.0-windows\ShellSortt.dll
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\bin\Debug\net8.0-windows\ShellSortt.pdb
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ShellSortt.dll
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\refint\ShellSortt.dll
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ShellSortt.pdb
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ShellSortt.genruntimeconfig.cache
+C:\Users\nakan\source\repos\ShellSortt\ShellSortt\obj\Debug\net8.0-windows\ref\ShellSortt.dll
